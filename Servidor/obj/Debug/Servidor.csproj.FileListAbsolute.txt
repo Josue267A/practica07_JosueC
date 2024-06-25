@@ -1,0 +1,10 @@
+C:\Users\josue\Source\Repos\AD_PA01_2024A\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\josue\Source\Repos\AD_PA01_2024A\Servidor\bin\Debug\Servidor.exe
+C:\Users\josue\Source\Repos\AD_PA01_2024A\Servidor\bin\Debug\Servidor.pdb
+C:\Users\josue\Source\Repos\AD_PA01_2024A\Servidor\bin\Debug\Protocolo.dll
+C:\Users\josue\Source\Repos\AD_PA01_2024A\Servidor\bin\Debug\Protocolo.pdb
+C:\Users\josue\Source\Repos\AD_PA01_2024A\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\josue\Source\Repos\AD_PA01_2024A\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\josue\Source\Repos\AD_PA01_2024A\Servidor\obj\Debug\Servidor.csproj.Up2Date
+C:\Users\josue\Source\Repos\AD_PA01_2024A\Servidor\obj\Debug\Servidor.exe
+C:\Users\josue\Source\Repos\AD_PA01_2024A\Servidor\obj\Debug\Servidor.pdb
