@@ -1,7 +1,7 @@
 ﻿// ************************************************************************
 // Practica 07
-// Josue Chicaiza
-// Fecha de realización: 22/06/2024
+// David Chicaiza
+// Fecha de realización: 21/06/2024
 // Fecha de entrega: 26/06/2024
 // Resultados:
 // - Se corrigio el error detectado en la clase en el lado del cliente que correspondia  a las lineas de Finally en el cierre de las conexiones, las lineas afectadas son:
